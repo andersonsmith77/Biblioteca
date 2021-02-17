@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\bin\Debug\netcoreapp3.1\BibliotecaSystem.Models.dll
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\obj\Debug\netcoreapp3.1\BibliotecaSystem.Data.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\obj\Debug\netcoreapp3.1\BibliotecaSystem.Data.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\obj\Debug\netcoreapp3.1\BibliotecaSystem.Data.AssemblyInfo.cs
