@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BibliotecaSystem.Data.Interfaces
 {
-    public interface BibliotecaRepository : IRepository<Libros>
+    public interface ILibroRepository : IRepository<Libros>
     {
     }
 }

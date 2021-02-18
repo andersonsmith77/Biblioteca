@@ -1,0 +1,33 @@
+﻿@page
+@model BibliotecaSystem.Web.Pages.LibrosModel
+@{
+}
+
+<h1>Listado de Libros</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Título</td>
+            <td>Categorias</td>
+            <td>Autor</td>
+            <td>Existencias</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Libro)
+        {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Titulo</td>
+            <td>@item.Categoria</td>
+            <td>@item.Autor</td>
+            <td>@item.Existencias</td>
+            <td>
+                <a class="btn btn-sm btn-info" asp-area="" asp-page="/EditarLibro" asp-route-id="@item.Id">Editar</a>
+            </td>
+        </tr>
+        }
+    <tbody>
+</table>

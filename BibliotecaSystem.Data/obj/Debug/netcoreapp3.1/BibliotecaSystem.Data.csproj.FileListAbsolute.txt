@@ -2,3 +2,11 @@ C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\bin\Debug\netcor
 C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\obj\Debug\netcoreapp3.1\BibliotecaSystem.Data.csprojAssemblyReference.cache
 C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\obj\Debug\netcoreapp3.1\BibliotecaSystem.Data.AssemblyInfoInputs.cache
 C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\obj\Debug\netcoreapp3.1\BibliotecaSystem.Data.AssemblyInfo.cs
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\bin\Debug\netcoreapp3.1\BibliotecaSystem.Data.deps.json
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\bin\Debug\netcoreapp3.1\BibliotecaSystem.Data.dll
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\bin\Debug\netcoreapp3.1\BibliotecaSystem.Data.pdb
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\bin\Debug\netcoreapp3.1\BibliotecaSystem.Models.pdb
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\obj\Debug\netcoreapp3.1\BibliotecaSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\obj\Debug\netcoreapp3.1\BibliotecaSystem.Data.csproj.CopyComplete
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\obj\Debug\netcoreapp3.1\BibliotecaSystem.Data.dll
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Data\obj\Debug\netcoreapp3.1\BibliotecaSystem.Data.pdb

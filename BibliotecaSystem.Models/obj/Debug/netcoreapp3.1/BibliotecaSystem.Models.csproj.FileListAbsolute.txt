@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Models\bin\Debug\netcoreapp3.1\BibliotecaSystem.Models.deps.json
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Models\bin\Debug\netcoreapp3.1\BibliotecaSystem.Models.dll
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Models\bin\Debug\netcoreapp3.1\BibliotecaSystem.Models.pdb
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Models\obj\Debug\netcoreapp3.1\BibliotecaSystem.Models.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Models\obj\Debug\netcoreapp3.1\BibliotecaSystem.Models.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Models\obj\Debug\netcoreapp3.1\BibliotecaSystem.Models.AssemblyInfo.cs
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Models\obj\Debug\netcoreapp3.1\BibliotecaSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Models\obj\Debug\netcoreapp3.1\BibliotecaSystem.Models.dll
+C:\Users\HP\source\repos\BibliotecaSystem\BibliotecaSystem.Models\obj\Debug\netcoreapp3.1\BibliotecaSystem.Models.pdb
